@@ -9,7 +9,7 @@ elif (escolha == 3):
     print(f"Multiplicação: {num1 * num2}")
 elif (escolha == 4):
     if(num2 == 0):
-        print("Não possível dividir por 0!")
+        print("Não é possível dividir por 0!")
     else:
         print(f"Divisão: {num1 / num2}")
 else:
